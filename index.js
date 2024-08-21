@@ -12,6 +12,7 @@ import RestaurantMenu from "./src/components/RestaurantMenu";
 const Grocery = lazy(() => import("./src/components/Grocery"))
 
 
+
 const appRouter = createBrowserRouter([
     {
         path: "/",
